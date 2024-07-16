@@ -1,0 +1,6 @@
+django
+pillow
+django-jazzmin
+djangorestframework
+django-filter 
+markdown
